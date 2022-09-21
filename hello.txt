@@ -12,10 +12,5 @@ hello git!
 hello git!
 hello git!
 hello atguigu!
-hello atguigu!
-hello atguigu!
-hello atguigu!
-hello atguigu!
-hello atguigu!
-hello git!
+hot -fix!
 hello git!
